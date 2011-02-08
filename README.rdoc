@@ -2,4 +2,10 @@
 
 == What is RubyMine?
 
-RubyMine is a suite of data mining tools and algorithms written in the Ruby programming language.  RubyMine is intended to appeal to both students and researchers.  Students benefit from tools that are easy to understand. 
+RubyMine is a suite of data mining tools and algorithms written in the Ruby programming language.  RubyMine is intended to appeal to both students and researchers.  Students benefit from tools that are easy to understand and use during lecture.  Researchers benefit from tools that are open for inspection and able to be freely shared with others to aid reproduction of experimental results.
+
+== Installation Instructions
+None Yet
+
+== Algorithms
+None Yet
